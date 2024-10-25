@@ -2,7 +2,8 @@
 
 ## VIDEO
 
-[![IMAGE ALT TEXT HERE](https://github.com/user-attachments/assets/874ec7bb-7bbc-49cb-9240-8b3b09556d2d)](https://www.youtube.com/watch?v=CEcS8J4hYB0)
+[![IMAGE ALT TEXT HERE](https://github.com/user-attachments/assets/d33e9d65-c363-43d2-8f5f-ec234288dcc1)](https://www.youtube.com/watch?v=CEcS8J4hYB0)
+
 
 
 ## HomePage
